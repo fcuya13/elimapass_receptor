@@ -1,1 +1,2 @@
-const BACKEND_URL = "http://192.168.1.48:8000";
+const BACKEND_URL =
+    "https://cautious-space-sniffle-ww9j6wppwgp2q47-8000.app.github.dev/";
